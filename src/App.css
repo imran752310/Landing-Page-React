@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  color: #262626;
+  font-size: 18px;
+}
+.section{
+  padding:80px 80px;
+}
+.section-title{
+  color: rgb(19, 46, 71);
+  font-size: 26px;
+  font-weight: 700;
+}
+.underline{
+  width: 6rem;
+  background-color: rgb(236, 116, 4);
+  height: 4px;
+  margin: 15px 15px;
+}
+.bg-c-light{
+  background: #f2f2f2;
+}
